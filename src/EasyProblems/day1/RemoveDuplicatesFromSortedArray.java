@@ -1,7 +1,8 @@
-package EasyProblems;
+package EasyProblems.day1;
 
 
 /**
+ *  PROBLEM LINK: https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/
  *  STATUS: ACCEPTED
  *  HELP ? YES
  *  NUM OF SUBMISSIONS ? 2

@@ -1,7 +1,8 @@
-package EasyProblems;
+package EasyProblems.day1;
 
 public class BestTimeToBuyAndSellStockII {
     /**
+     *  PROBLEM LINK: https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/
      *  STATUS: ACCEPTED
      *  HELP ? NO
      *  NUM OF SUBMISSIONS ? 1

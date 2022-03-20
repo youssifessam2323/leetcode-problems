@@ -1,9 +1,10 @@
-package EasyProblems;
+package EasyProblems.day1;
 
 import java.util.Arrays;
 
 
 /**
+ *  PROBLEM LINK: https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/
  *  STATUS: REJECTED
  *  HELP ? YES
  *  NUM OF SUBMISSIONS ? 5+
