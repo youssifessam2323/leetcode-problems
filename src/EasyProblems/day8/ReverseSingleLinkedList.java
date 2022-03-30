@@ -7,7 +7,7 @@ public class ReverseSingleLinkedList {
      *  HELP ? YES
      *  NUM OF SUBMISSIONS ? 2
      *
-     *  TRICK LEARNED FROM IT: how to manipulate a single linked list to make each node point to the previous one
+     *  TRICK LEARNED FROM IT? how to manipulate a single linked list to make each node point to the previous one
      *  by using two pointers
      */
 
