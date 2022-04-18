@@ -2,7 +2,7 @@ package EasyProblems.day10;
 
 public class BTDepth {
 
-    static class TreeNode {
+    private static class TreeNode {
         int val;
         TreeNode left;
         TreeNode right;
