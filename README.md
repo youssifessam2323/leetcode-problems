@@ -5,8 +5,8 @@ solving leetcode interview problem collections
 ## Finished topics:
 ### Easy Collection
 - [x] Array
-- [ ] String 
-- [ ] Linked List
+- [x] String 
+- [x] Linked List
 - [ ] Trees
 - [ ] Sorting and Searching 
 - [ ] Dynamic Programming
