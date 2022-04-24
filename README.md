@@ -7,7 +7,7 @@ solving leetcode interview problem collections
 - [x] Array
 - [x] String 
 - [x] Linked List
-- [ ] Trees
+- [x] Trees
 - [ ] Sorting and Searching 
 - [ ] Dynamic Programming
 - [ ] Design
